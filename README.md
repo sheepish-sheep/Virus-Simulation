@@ -1,7 +1,7 @@
-# Virus Evolution with Reinforcement Learning
+# Virus "Evolution" with Reinforcement Learning 
 
 ## Overview
-
+(This is my first project so the simulation is very simple)
 This project simulates virus population evolution and demonstrates how AI can discover optimal drug treatment strategies. The reinforcement learning agent learns when to apply and remove drugs to minimize virus fitness while preventing resistance development.
 
 ## Key Features
