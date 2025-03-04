@@ -24,6 +24,16 @@ python rl_visual.py
 - **SPACE**: Force immediate evolution to next generation
 - **ESC**: Exit simulation
 
+## Screenshots
+
+### Early Generation (Gen 4)
+![Simulation at Generation 4](images/simulation_generation4.png)
+*Early in the simulation, viruses show diverse genetic makeup (varied colors), with the AI monitoring fitness levels.*
+
+### Later Generation (Gen 27)
+![Simulation at Generation 27](images/simulation_generation27.png)
+*By generation 27, evolutionary pressure has selected for certain traits (predominantly blue viruses), showing adaptation to the environment.*
+
 ## Visual Elements
 
 ### Viruses
